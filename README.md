@@ -23,8 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  ## My Profiles
-- [HackerRank Profile](https://www.hackerrank.com/smeyyekran)
+  
+- Hackerrank profile showcase my work https://www.hackerrank.com/smeyyekran
 
 
 
